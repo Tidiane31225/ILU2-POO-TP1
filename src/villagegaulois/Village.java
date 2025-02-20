@@ -46,7 +46,7 @@ public class Village {
 			}
 		}
 		return null;
-	}
+	}  
 
 	public String afficherVillageois() {
 		
